@@ -22,15 +22,15 @@ The student connects to the course via a digital wallet and can thus return at a
 
 ### Quiz 1
 1. Who were the founders of Rocket Pool?
-  1. David Rugendyke & Jake Popsicle (answer)
-  2. David Rugendyke & Vitalik Buterin
-  3. Jake Popsicle & Vitalik Buterin
+  * David Rugendyke & Jake Popsicle (answer)
+  * David Rugendyke & Vitalik Buterin
+  * Jake Popsicle & Vitalik Buterin
 2. How many ETH are required to run a solo Ethereum node?
-  1. 16 ETH
-  2. There is no minimum
-  3. 32 ETH
-  4. 24 ETH
-3. 
+  * 16 ETH
+  * There is no minimum
+  * 32 ETH
+  * 24 ETH
+3. Why is decentralization good for the health of the Ethereum Blockchain?
 
 ## Chapter - Rocket Pool Tokenomics
 ### Topic - 
