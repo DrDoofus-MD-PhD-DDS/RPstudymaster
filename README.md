@@ -9,9 +9,13 @@ This is not an automatic pass course or a course with easy to guess multiple cho
 
 ##Chapter 1 - Basics of Rocket Pool
 
-###Topic 1 - Introduction to the Ethereum blockchain
+###Topic - Introduction to the Ethereum blockchain
+###Topic - Definitions
+###Topic - How Rocket Pool differs from Competitors
 
-###Topic 2 -
+
+##Chapter - Rocket Pool Tokenomics
+###Topic - Xer0 Thesis
 
 ##Chapter - Types of Staking
 
