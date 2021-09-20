@@ -5,23 +5,23 @@ There should be chapters based on content with each chapter broken into a resear
 The content should cover what we most want people to learn about Rocket Pool to consider them competent. Some questions should be difficult and require research.
 This is not an automatic pass course or a course with easy to guess multiple choice.
 
-#Outline
+# Outline
 
-##Chapter 1 - Basics of Rocket Pool
+## Chapter 1 - Basics of Rocket Pool
 
-###Topic - Introduction to the Ethereum blockchain
-###Topic - Definitions
-###Topic - How Rocket Pool differs from Competitors
+### Topic - Introduction to the Ethereum blockchain
+### Topic - Definitions
+### Topic - How Rocket Pool differs from Competitors
 
 
-##Chapter - Rocket Pool Tokenomics
-###Topic - Xer0 Thesis
+## Chapter - Rocket Pool Tokenomics
+### Topic - Xer0 Thesis
 
-##Chapter - Types of Staking
+## Chapter - Types of Staking
 
-##Chapter - Node Operator In Depth
+## Chapter - Node Operator In Depth
 
-###Topic - Node Security
+### Topic - Node Security
 
-##Chapter - 
+## Chapter - 
 
