@@ -2,11 +2,12 @@
 
 This should follow the example set by the Ethereum Studymaster course.
 There should be chapters based on like content with each chapter broken into research and/or reading topics followed by a quiz with multiple choice answers.
-The content should cover what we most want people to learn about Rocket Pool to consider them competent stewards of the protocol. Questions can be difficult and require research. This is not an automatic pass course or a course with easy to guess multiple choice.
+The content should cover what we most want people to learn about Rocket Pool to consider them competent stewards of the protocol. Questions can be difficult and require research. This is not an automatic pass course or a course with necessarily easy to guess multiple choice.
 
 # Outline
 Rocket Pool
 Decentralised & Trustless ETH2 Staking Protocol
+
 This course is designed to give a broader and deeper understanding of the Rocket Pool protocol. It is broken up into 69(TBD) Chapters that one can read through at their leisure. Chapters are further expanded into topics. Each chapter ends with a quiz to test knowledge of the content in that chapter. Questions may be challenging and require further research as will be noted in that topic's overview.
 
 The student connects to the course via a digital wallet and can thus return at any time to continue from where they left off. As with the Ethereum Studymaster course, Rocket Pool Studymaster has partnered with POAP to award completion of the course with a POAP badge.  To complete the course, all questions must be answered with at least 80% accuracy per quiz. Each quiz can be retaken up to three times.
