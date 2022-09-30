@@ -33,6 +33,8 @@ Rocket Pool removes several high barriers to entry that will exist with Proof of
 
 Look over the official Rocket Pool website: https://rocketpool.net/
 
+### Where to find RP info?
+
 ### Topic - Goals of Decetralized and Trustless Staking
 ### Topic - Definitions
 ### Topic - How Rocket Pool Differs from Competitors
